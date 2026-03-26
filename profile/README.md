@@ -1,5 +1,5 @@
 # 🏢 NGC Software Solutions
-> **"Turning logic into scalable healthcare solutions."**
+> **"Turning complex challenges into scalable digital reality."**
 
 Welcome to the official repository of **NGC Software Solutions**. We are a software development team based in Cuernavaca, Mexico, specializing in building high-integrity digital systems, robust backends, and responsive user experiences.
 
@@ -8,7 +8,7 @@ Welcome to the official repository of **NGC Software Solutions**. We are a softw
 ### 🚀 Our Mission
 We provide tailor-made software solutions that optimize complex workflows. Our current focus is the digital transformation of clinical environments, ensuring data security, performance, and seamless management.
 
-### 🛠️ Core Tech Stack (The "Main Dependencies")
+### 🛠️ Core Tech Stack
 We build our "System Instances" using modern and reliable technologies:
 * **Backend:** Java 25, Spring Boot 3.x (Spring Security, JPA, Hibernate).
 * **Frontend:** React + Tailwind CSS (Vite / PNPM).
