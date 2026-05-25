@@ -29,7 +29,7 @@ Our flagship project is a comprehensive **Medical Records Management System** de
 Our organization is driven by three "High-Level Threads":
 
 * **[Alexis Leonardo Noriega Rangel](https://leo-noriega.github.io/portfolio/) - Software Engineer**
-* **[Carlos Martínez Gómez](https://carlos-mtzg.github.io/carlos-portfolio/) - Software Engineer**
+* **[Carlos Martínez Gómez](https://carlosmtzg.dev/) - Software Engineer**
 * **[Jayr Gil Galicia Jiménez](https://github.com/JayrGilGalicia) - Software Engineer**
 
 ---
